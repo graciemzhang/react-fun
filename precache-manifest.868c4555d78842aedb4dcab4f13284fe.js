@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "97924467c590f85ecdea",
+    "revision": "4a894234b7474b27077c",
     "url": "/react-fun/static/css/main.896aedd9.chunk.css"
   },
   {
-    "revision": "97924467c590f85ecdea",
-    "url": "/react-fun/static/js/main.97924467.chunk.js"
+    "revision": "4a894234b7474b27077c",
+    "url": "/react-fun/static/js/main.4a894234.chunk.js"
   },
   {
     "revision": "fd0cfea648d4e488b62d",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-fun/static/js/runtime~main.8bac8385.js"
   },
   {
-    "revision": "28d94d988b745b1fc1f12e6d3193a902",
+    "revision": "1364900c1598a67d04db47ef19ec9a92",
     "url": "/react-fun/index.html"
   }
 ];
